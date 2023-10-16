@@ -6,7 +6,7 @@ declare interface ImportMetaEnv {
   readonly VITE_PUBLIC_PATH: string
 }
 
-declare module "element-plus"
+// declare module "element-plus"
 
 interface ImportMeta {
   readonly env: ImportMetaEnv
