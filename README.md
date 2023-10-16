@@ -145,23 +145,6 @@ Thanks to all the contributors!
 
 Small projects are not easy to get a star, if you like this project, welcome to support a star! This is the only motivation for the author to maintain it on an ongoing basis (whisper: it's free after all)
 
-## ☕ Donate
-
-[See how to donate](https://github.com/un-pany/v3-admin-vite/issues/69)
-
-## Group
-
-QQ group：1014374415 (left) && add me on WeChat，Invite you to join WeChat group (right)
-
-![qq.png](./src/assets/docs/qq.png)
-![wechat.png](./src/assets/docs/wechat.png)
-
-## 📄 License
-
-[MIT](./LICENSE)
-
-Copyright (c) 2022-present [pany](https://github.com/pany-ang)
-
 #### git commit message 信息校验
 
 安装：
