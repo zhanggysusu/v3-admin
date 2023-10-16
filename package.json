@@ -24,6 +24,8 @@
     "test": "vitest"
   },
   "dependencies": {
+    "@commitlint/cli": "^17.8.0",
+    "@commitlint/config-conventional": "^17.8.0",
     "@element-plus/icons-vue": "^2.1.0",
     "axios": "1.5.1",
     "dayjs": "1.11.10",
