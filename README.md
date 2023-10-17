@@ -157,7 +157,7 @@ git commit -m <type>[optional scope]: <description>
 
 type ：用于表明我们这次提交的改动类型，是新增了功能？还是修改了测试代码？又或者是更新了文档？
 optional scope：一个可选的修改范围。用于标识此次提交主要涉及到代码中哪个模块。
-description：一句话描述此次提交的主要内容，做到言简意赅。
+description：一句话描述此次提交的主要内容，做到言简意赅。fdsafa
 
 ##### 常用的 type 类型
 
